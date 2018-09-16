@@ -1,9 +1,7 @@
 <template>
-  <div id="app">
-    asdf
-    <img src="./assets/logo.png">
+  <v-app>
     <router-view/>
-  </div>
+  </v-app>
 </template>
 
 <script>
